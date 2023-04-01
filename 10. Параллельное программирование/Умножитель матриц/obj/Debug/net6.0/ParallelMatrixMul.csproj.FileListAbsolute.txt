@@ -1,0 +1,30 @@
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.exe
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.deps.json
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.runtimeconfig.json
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.dll
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ref\ParallelMatrixMul.dll
+D:\GB\bootcamp\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.pdb
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.csproj.AssemblyReference.cache
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfoInputs.cache
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfo.cs
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.csproj.CoreCompileInputs.cache
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.dll
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ref\ParallelMatrixMul.dll
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.pdb
+D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.genruntimeconfig.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\bin\Debug\net6.0\ParallelMatrixMul.exe
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\bin\Debug\net6.0\ParallelMatrixMul.deps.json
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\bin\Debug\net6.0\ParallelMatrixMul.runtimeconfig.json
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\bin\Debug\net6.0\ParallelMatrixMul.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\bin\Debug\net6.0\ParallelMatrixMul.pdb
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.csproj.AssemblyReference.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.GeneratedMSBuildEditorConfig.editorconfig
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfoInputs.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfo.cs
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.csproj.CoreCompileInputs.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\refint\ParallelMatrixMul.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.pdb
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ParallelMatrixMul.genruntimeconfig.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\10. Параллельное программирование\Умножитель матриц\obj\Debug\net6.0\ref\ParallelMatrixMul.dll

@@ -1,0 +1,15 @@
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\bin\Debug\net7.0\max_sum.exe
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\bin\Debug\net7.0\max_sum.deps.json
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\bin\Debug\net7.0\max_sum.runtimeconfig.json
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\bin\Debug\net7.0\max_sum.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\bin\Debug\net7.0\max_sum.pdb
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.csproj.AssemblyReference.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.GeneratedMSBuildEditorConfig.editorconfig
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.AssemblyInfoInputs.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.AssemblyInfo.cs
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.csproj.CoreCompileInputs.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\refint\max_sum.dll
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.pdb
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\max_sum.genruntimeconfig.cache
+A:\YandexDisk\GeekBrains\Первая четверть\BootCamp Программист\1. Эффективность алгоритма\max_sum\obj\Debug\net7.0\ref\max_sum.dll
